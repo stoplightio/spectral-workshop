@@ -18,10 +18,12 @@ wget https://raw.githubusercontent.com/OAI/OpenAPI-Specification/master/examples
 ## Getting Started with Studio
 
 1. Download [Stoplight Studio](http://stoplight.io/studio)
+  - [macOS v1.2.0-beta8](https://www.dropbox.com/s/wmi93n1u4xdf40m/Stoplight%20Studio-1.2.0-beta.8-mac.zip?dl=0)
+  - [Windows v1.2.0-beta8](https://www.dropbox.com/s/1giwjw0r1hx78cy/Stoplight%20Studio%20Setup%201.2.0-beta.8.exe?dl=0)
 
-2. Get Spectral running in there
+2. Clone [studio-demo](https://github.com/stoplightio/studio-demo/)
 
-3. Make `.spectral.yaml` and disable some rules
+3. Make `.spectral.yaml` and [disable some rules](https://stoplight.io/p/docs/gh/stoplightio/spectral/docs/getting-started/rulesets.md#disabling-rules)
 
 4. Let's write [some Custom Rules](https://stoplight.io/p/docs/gh/stoplightio/spectral/docs/getting-started/rulesets.md)
 
